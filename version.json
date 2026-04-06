@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "updateDesc": "1. 正式版\n2. 目录页美化完成\n3. 修复搜索/历史返回逻辑",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "updateDesc": "现在按回车也可以进行关键词搜索,添加了正文搜索关键词高亮功能",
   "downloadUrl": "https://github.com/Arowanaction/Musicwiki-Update/blob/main/app-release.apk"
 }
