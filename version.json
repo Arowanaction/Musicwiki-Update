@@ -2,5 +2,5 @@
   "versionCode": 2,
   "versionName": "1.1",
   "updateDesc": "现在按回车也可以进行关键词搜索,添加了正文搜索关键词高亮功能",
-  "downloadUrl": "https://raw.githubusercontent.com/Arowanaction/Musicwiki-Update/refs/heads/main/app-release.apk"
+  "downloadUrl": "https://github.com/Arowanaction/Musicwiki-Update/releases/download/v1.1/app-release.apk"
 }
