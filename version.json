@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "updateDesc": "现在按回车也可以进行关键词搜索,添加了正文搜索关键词高亮功能",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "updateDesc": "感谢群友们提醒,\n现在软件支持三种打开菜单的方式:最初的左侧菜单右滑,按钮打开,还有悬浮球打开,均可以在设置页面进行开启与关闭\n添加了关闭每日推荐词条功能\n现在的每日词条弹窗不会显示标题\n添加了每14天自动检查更新的功能,如果有会进行弹窗提醒",
   "downloadUrl": "https://github.com/Arowanaction/Musicwiki-Update/releases/download/v1.1/app-release.apk"
 }
