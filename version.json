@@ -1,6 +1,6 @@
 {
   "versionCode": 14,
-  "versionName": "2.7",
-  "updateDesc": "下载密码1234,版本号2.7\n将资料同步到3.2版本",
-  "downloadUrl": "https://wwbsh.lanzn.com/iqX7T3rkd6hc"
+  "versionName": "2.8",
+  "updateDesc": "下载密码1234,版本号2.8\n解决了搜索历史会挤压搜索结果的问题,现在标题搜索支持搜索别名了,修改了部分代码逻辑,增强应用稳定性",
+  "downloadUrl": "https://wwbsh.lanzn.com/iqsaC3rusvkf"
 }
